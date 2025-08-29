@@ -17,4 +17,4 @@
 - Если пользователь найдёт интересный факт или инсайт, у него есть возможность в деталях увидеть информацию о каждом выступлении.
 - Чтобы с дашбордом было комфортно работать, добавлены селекторы по стране, названию конференции, тегу выступления и дате записи.
 
-![Дашборд](https://3.downloader.disk.yandex.ru/preview/1105a5505fbf2284c32588a7bf85b6db4e5bf4d75e053c32a2f92b7cc4c74bd1/inf/KPn4rKCpwT5e4Kdvm9G69juL1DOswsX4AB8XPgkwbZooThpzvtl98zjJm4hE9a3GoWh2OTwZm1UJaDpwWVZPlQ%3D%3D?uid=669332649&filename=Дашборд-ТЕД.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=669332649&tknv=v3&size=2880x1640)
+![Дашборд](https://i.ibb.co/Mx5wWVNm/image.jpg)
